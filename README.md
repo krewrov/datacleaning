@@ -1,4 +1,4 @@
-# run_analysis.R
+# Data cleaning using run_analysis.R
 
 December 2015, Erwin Vorwerk
 
