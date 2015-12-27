@@ -20,8 +20,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The script works as follows:
 
-1. It read data from the data source files
-2. Then it merge the training and test set to create one data set
+1. It reads data from the data source files
+2. Then it merges the training and test set to create one data set
 3. Next it is extracting only the measurements on the mean and standard deviation for each measurement
 4. Then it places an appropriately label on the data set with descriptive variable names
 5. Next it applies descriptive activity names to name the activities in the data set
