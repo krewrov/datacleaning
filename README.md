@@ -12,3 +12,6 @@ tidy.txt          output file containing cleansed data
  
  .\ucidata         directory containing various data source files
 
+Here are the data for the project: 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
