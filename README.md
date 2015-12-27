@@ -10,9 +10,11 @@ This git repository is set up in the light of the "Getting and Cleaning Data" co
 
 It contains the following files:
 
-  run_analysis.R    the R program written to clean data file
+- run_analysis.R:    the R program written to clean data file
 
-  tidy.txt          output file containing cleansed data
+-  tidy.txt:         output file containing cleansed data
+
+- code.book:         file containing description of feasures in tidy.txt
 
 Here are the data for the project: 
 
