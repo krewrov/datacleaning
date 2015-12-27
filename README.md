@@ -13,8 +13,6 @@ It contains the following files:
 run_analysis.R    the R program written to clean data file
 
 tidy.txt          output file containing cleansed data
- 
- .\ucidata         directory containing various data source files
 
 Here are the data for the project: 
 
