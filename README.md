@@ -10,10 +10,19 @@ This git repository is set up in the light of the "Getting and Cleaning Data" co
 
 It contains the following files:
 
-run_analysis.R    the R program written to clean data file
+  run_analysis.R    the R program written to clean data file
 
-tidy.txt          output file containing cleansed data
+  tidy.txt          output file containing cleansed data
 
 Here are the data for the project: 
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+The script works as follows:
+
+1. It read data from the data source files
+2. Then it merge the training and test set to create one data set
+3. Next it is extracting only the measurements on the mean and standard deviation for each measurement
+4. Then it places an appropriately label on the data set with descriptive variable names
+5. Next it applies descriptive activity names to name the activities in the data set
+6. And finally From the data set in step 4. it create a second, independent tidy data set with average of of each variable for each activity and each subject
